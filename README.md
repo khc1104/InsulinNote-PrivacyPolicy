@@ -22,8 +22,8 @@
 ## 5. 문의처
 본 개인정보 처리방침이나 앱 사용 중 발생하는 데이터 처리와 관련하여 문의 사항이 있으신 경우, 아래 연락처로 문의해 주시기 바랍니다.
 
-* **개발자 이메일:** [hck1104@naver.com]
-* **GitHub:** [https://github.com/khc1104/InsulinNote]
+* **개발자 이메일:** [Email](hck1104@naver.com)
+* **GitHub:** [GitHub](https://github.com/khc1104/InsulinNote)
 
 ---
 **시행일자:** 2026년 4월 23일
